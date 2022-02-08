@@ -1,0 +1,381 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2577,
+      "max": [
+        0.2477390021085739,
+        0.2281849980354309,
+        1.2629369497299194
+      ],
+      "min": [
+        -0.2215220034122467,
+        -0.24713799357414246,
+        0.059707000851631165
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30924,
+      "componentType": 5126,
+      "count": 2577,
+      "max": [
+        0.9999878406524658,
+        0.999993085861206,
+        0.9998564720153809
+      ],
+      "min": [
+        -0.9999933242797852,
+        -0.9999915361404419,
+        -0.44199004769325256
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2577,
+      "max": [
+        0.9369949102401733,
+        0.8403297662734985,
+        0.6336780190467834,
+        1.0
+      ],
+      "min": [
+        -0.9968459606170654,
+        -0.9994280934333801,
+        -0.5699284672737122,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2577,
+      "max": [
+        0.8890089988708496,
+        0.9485870003700256
+      ],
+      "min": [
+        7.000000096013537e-06,
+        4.600000102072954e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 14421,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 61848,
+      "componentType": 5126,
+      "count": 2126,
+      "max": [
+        0.24662600457668304,
+        0.22615499794483185,
+        1.1751689910888672
+      ],
+      "min": [
+        -0.2213830053806305,
+        -0.24454499781131744,
+        0.012008000165224075
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 87360,
+      "componentType": 5126,
+      "count": 2126,
+      "max": [
+        0.9997847676277161,
+        0.9992626905441284,
+        0.9996212124824524
+      ],
+      "min": [
+        -0.9997027516365051,
+        -0.9999605417251587,
+        -0.9999719858169556
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 41232,
+      "componentType": 5126,
+      "count": 2126,
+      "max": [
+        0.9143438935279846,
+        0.8690362572669983,
+        0.8303369283676147,
+        1.0
+      ],
+      "min": [
+        -0.9999933838844299,
+        -0.999893307685852,
+        -0.6350796818733215,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20616,
+      "componentType": 5126,
+      "count": 2126,
+      "max": [
+        0.8836269974708557,
+        0.9999539852142334
+      ],
+      "min": [
+        0.00962899997830391,
+        0.0002730000123847276
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 57684,
+      "componentType": 5125,
+      "count": 11613,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Lassi Kaukonen (https://sketchfab.com/thesidekick)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/le-coq-congac-extract-00fd0618c93b4979b258f25df0109a6a",
+      "title": "Le Coq - Congac extract"
+    },
+    "generator": "Sketchfab-12.48.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 104136,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37624,
+      "byteOffset": 104136,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 112872,
+      "byteOffset": 141760,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 75248,
+      "byteOffset": 254632,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 329880,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Le_Coq_extrakt_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/Le_Coq_extrakt_normal.png"
+    },
+    {
+      "uri": "textures/Le_Coq_extrakt_occlusion.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.43950389454034694,
+          "specularFactor": [
+            0.013871069736898108,
+            0.013871069736898108,
+            0.013871069736898108
+          ]
+        }
+      },
+      "name": "Le_Coq_extrakt",
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.725285934051234,
+          "specularFactor": [
+            0.0017101318853709998,
+            0.0017101318853709998,
+            0.0017101318853709998
+          ]
+        }
+      },
+      "name": "bottle",
+      "normalTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Le_Coq_extrakt_SF.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
