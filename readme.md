@@ -4,3 +4,4 @@
 ### Homework 1 – <a href = "https://github.com/aidansneal/NealECT4900/tree/main/NealHW1"> Intro Webpage </a>
 ### Homework 2 – <a href= "https://github.com/aidansneal/NealECT4900/tree/main/NealHW2"> webVR with NavMesh  </a>
 ### Homework 4 – <a href = "https://github.com/aidansneal/NealECT4900/tree/main/NealHW4"> AR Business Card </a>
+### Homework 5 – <a href = "https://github.com/aidansneal/NealECT4900/tree/main/NealHW5"> VR through Machine Learning </a>
