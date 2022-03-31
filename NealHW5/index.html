@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <script src='https://aframe.io/releases/1.2.0/aframe.min.js'></script>
+</head>
+
+<body>
+    <a-scene>
+        <a-plane class="clickable" position='0 0 -4' src="contentImage.jpg" rotation='0 0 0' width='6' height='4'
+            color='#FFFFFF'></a-plane>
+        <a-camera position="0 0 0" look-controls="enabled: false" cursor="fuse: false; rayOrigin: mouse;" raycaster="far:
+${customFields.libVersion}; objects: .clickable"></a-camera>
+    </a-scene>
+</body>
+<script>
+    document.querySelector("a-plane").addEventListener("click", function () {
+        if (document.querySelector("a-plane").getAttribute("src") ==
+            "contentImage.jpg") {
+            document.querySelector("a-plane").setAttribute("src",
+                "generatedImage.png");
+        } else {
+            document.querySelector("a-plane").setAttribute("src",
+                "contentImage.jpg");
+        }
+    })
+</script>
+
+</html>
